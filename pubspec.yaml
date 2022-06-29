@@ -25,7 +25,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   flutter_localizations:
     sdk: flutter
-  intl: ^0.16.0
+  intl: ^0.17.0
   intl_translation: ^0.17.7
   rxdart: ^0.23.1
   brasil_fields: ^0.0.7+2
