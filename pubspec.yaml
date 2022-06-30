@@ -28,7 +28,7 @@ dependencies:
   intl: ^0.16.0
   intl_translation: ^0.17.7
   rxdart: ^0.27.0
-  brasil_fields: ^0.0.7+2
+  brasil_fields: ^1.0.0
   image_picker: ^0.6.2+3
   cached_network_image: ^2.0.0-rc
   parse_server_sdk: ^1.0.24
