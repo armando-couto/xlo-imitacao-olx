@@ -40,7 +40,7 @@ dependencies:
   transparent_image: ^1.0.0
   flutter_masked_text: ^0.8.0
   provider: ^3.2.0
-  shared_preferences: ^0.5.6
+  shared_preferences: ^2.0.0
   connectivity: ^3.0.0
   onesignal_flutter: ^3.0.0
   image_cropper: ^2.0.0
