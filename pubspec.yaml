@@ -45,7 +45,7 @@ dependencies:
   onesignal_flutter: ^3.0.0
   image_cropper: ^1.1.1
   location_permissions: ^4.0.0
-  dio: ^3.0.7
+  dio: ^4.0.0
 
   # Habilitar somente quando for solicitado!
   # flutter_facebook_login: ^3.0.0
