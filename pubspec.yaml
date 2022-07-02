@@ -42,7 +42,7 @@ dependencies:
   provider: ^3.2.0
   shared_preferences: ^0.5.6
   connectivity: ^0.4.6+1
-  onesignal_flutter: ^2.0.2
+  onesignal_flutter: ^3.0.0
   image_cropper: ^1.1.1
   location_permissions: ^2.0.3
   dio: ^3.0.7
