@@ -29,7 +29,7 @@ dependencies:
   intl_translation: ^0.18.0
   rxdart: ^0.27.0
   brasil_fields: ^1.0.0
-  image_picker: ^0.8.0
+  image_picker: ^1.0.0
   cached_network_image: ^3.0.0
   parse_server_sdk: ^5.0.0
   geolocator: ^9.0.0
