@@ -43,7 +43,7 @@ dependencies:
   shared_preferences: ^2.0.0
   connectivity: ^3.0.0
   onesignal_flutter: ^5.0.0
-  image_cropper: ^7.0.0
+  image_cropper: ^8.0.0
   location_permissions: ^4.0.0
   dio: ^5.0.0
 
